@@ -1,0 +1,9 @@
+.signUp-box{
+  border: 1px solid black;
+  width: 500px;
+  margin: 60px auto;
+  padding: 5%;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 2px 2px 1px black;
+}
